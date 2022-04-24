@@ -1,13 +1,14 @@
+body {
+  background-color: #A1E3D8;
+}
 
-  body {
-    background-color: #A1E3D8;
-  }
-  hr {
-    border-color: grey;
-    border-style: dotted none none;
-    border-width: 10px;
-    width: 5%;
-  }
+hr {
+  border-color: grey;
+  border-style: dotted none none;
+  border-width: 10px;
+  width: 5%;
+}
+
 h1 {
   color: #66BFBF;
 }
